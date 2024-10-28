@@ -1,1 +1,4 @@
-To jest krótki opis programu 
+To jest program liczący pole kwadratu
+
+╔══╗ 
+╚══╝
